@@ -1,7 +1,7 @@
 package listpackage;
 
 /**
- * Pet class.
+ * Pet class. This is a test comment.
  *
  * @author 55jphillip
  */
